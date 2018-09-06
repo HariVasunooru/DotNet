@@ -1,0 +1,7 @@
+c:\users\hari.vasunoori\source\repos\Threading\Threading\bin\Debug\Threading.exe.config
+c:\users\hari.vasunoori\source\repos\Threading\Threading\bin\Debug\Threading.exe
+c:\users\hari.vasunoori\source\repos\Threading\Threading\bin\Debug\Threading.pdb
+c:\users\hari.vasunoori\source\repos\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+c:\users\hari.vasunoori\source\repos\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+c:\users\hari.vasunoori\source\repos\Threading\Threading\obj\Debug\Threading.exe
+c:\users\hari.vasunoori\source\repos\Threading\Threading\obj\Debug\Threading.pdb
