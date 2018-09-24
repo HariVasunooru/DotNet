@@ -1,0 +1,17 @@
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\bin\Debug\netcoreapp2.0\UILayer.deps.json
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\bin\Debug\netcoreapp2.0\UILayer.runtimeconfig.json
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\bin\Debug\netcoreapp2.0\UILayer.runtimeconfig.dev.json
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\bin\Debug\netcoreapp2.0\UILayer.dll
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\bin\Debug\netcoreapp2.0\UILayer.pdb
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\bin\Debug\netcoreapp2.0\BALLayer.dll
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\bin\Debug\netcoreapp2.0\DALLayer.dll
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\bin\Debug\netcoreapp2.0\BALLayer.pdb
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\bin\Debug\netcoreapp2.0\DALLayer.pdb
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\obj\Debug\netcoreapp2.0\UILayer.csprojResolveAssemblyReference.cache
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\obj\Debug\netcoreapp2.0\UILayer.csproj.CoreCompileInputs.cache
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\obj\Debug\netcoreapp2.0\UILayer.AssemblyInfoInputs.cache
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\obj\Debug\netcoreapp2.0\UILayer.AssemblyInfo.cs
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\obj\Debug\netcoreapp2.0\UILayer.dll
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\obj\Debug\netcoreapp2.0\UILayer.pdb
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\bin\Debug\netcoreapp2.0\BusinessModels.dll
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\UILayer\bin\Debug\netcoreapp2.0\BusinessModels.pdb

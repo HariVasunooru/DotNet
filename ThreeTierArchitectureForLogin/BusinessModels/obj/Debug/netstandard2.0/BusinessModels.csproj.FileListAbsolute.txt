@@ -1,0 +1,8 @@
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\BusinessModels\bin\Debug\netstandard2.0\BusinessModels.deps.json
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\BusinessModels\bin\Debug\netstandard2.0\BusinessModels.dll
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\BusinessModels\bin\Debug\netstandard2.0\BusinessModels.pdb
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\BusinessModels\obj\Debug\netstandard2.0\BusinessModels.csproj.CoreCompileInputs.cache
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\BusinessModels\obj\Debug\netstandard2.0\BusinessModels.AssemblyInfoInputs.cache
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\BusinessModels\obj\Debug\netstandard2.0\BusinessModels.AssemblyInfo.cs
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\BusinessModels\obj\Debug\netstandard2.0\BusinessModels.dll
+C:\Users\hari.vasunoori\Desktop\New folder\ThreeTierArchitecture\BusinessModels\obj\Debug\netstandard2.0\BusinessModels.pdb
